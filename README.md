@@ -18,7 +18,7 @@ To analyze order-level sales data and identify trends, performance gaps, and imp
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables and Charts
-- Charts and Dashboard
+- Dashboard
 
 ## Analysis Performed
 - Monthly sales and order trend analysis
