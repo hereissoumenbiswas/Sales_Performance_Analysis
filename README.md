@@ -46,4 +46,4 @@ An interactive Excel dashboard was created to visualize key performance metrics,
 - Maintain high delivery performance to sustain the 92% order success rate.
 - Improve sales penetration in low-performing regions while strengthening presence in top-performing states.
 
-  Note: The Excel file is large and needs to be downloaded to view the full analysis and dashboard.
+## Note: The Excel file is large and needs to be downloaded to view the full analysis and dashboard.
