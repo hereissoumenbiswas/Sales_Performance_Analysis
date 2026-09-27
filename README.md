@@ -1,7 +1,7 @@
 # Vrinda Store Sales Performance Analysis (2022)
 
 ## Project Overview
-An Excel-based order-level sales performance analysis project focused on sales trends, customer behavior, order fulfillment status, regional contributions, and sales channel performance, supported by dashboard visualization.
+Excel-based order-level sales performance analysis project focused on sales trends, customer behavior, order fulfillment status, regional contributions, and sales channel performance, supported by dashboard visualization.
 
 ## Business Objective
 To analyze order-level sales data and identify trends, performance gaps, and improvement opportunities.
