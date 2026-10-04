@@ -28,7 +28,7 @@ To analyze order-level sales data and identify trends, performance gaps, and imp
 - Sales channel performance analysis
 
 ## Dashboard
-An interactive Excel dashboard was created to visualize key performance metrics, trends, and comparisons, enabling easy interpretation of sales performance and business insights.
+The interactive excel dashboard was built to visualize key performance indicators, trends and comparisons to easily interpret sales performance and business insights.
 
 ## Key Insights
 - Sales peak in March and decline toward year-end
