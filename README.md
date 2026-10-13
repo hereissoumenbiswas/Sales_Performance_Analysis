@@ -11,7 +11,7 @@ To evaluate order-level sales data to find patterns, performance gaps, and impro
 - Each row represents an individual order record
 
 ## Data Cleaning and Processing
-- Standardized text values for city and state names
+- Cleaned up city and state names
 - Created derived columns such as Month and Age Group using Excel functions
 - Ensured consistent data formats for accurate analysis
 
