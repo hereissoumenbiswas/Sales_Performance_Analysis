@@ -46,4 +46,4 @@ The interactive excel dashboard was built to visualize key performance indicator
 - Maintain high delivery performance to sustain the 92% order success rate.
 - Improve sales penetration in low-performing regions while strengthening presence in top-performing states.
 
-Note: The Excel file is large and needs to be downloaded to view the full analysis and dashboard.
+Note: The Excel file is huge and needs to be downloaded to access the entire analysis and dashboard.
